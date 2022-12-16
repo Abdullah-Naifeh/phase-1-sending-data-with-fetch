@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,45 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Alle",
+      "dogBreed": "Hotdog",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 9
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +58,238 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Rose",
+      "email": "rose@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Lisa",
+      "email": "lisajames@gmail.com",
+      "id": 45
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
